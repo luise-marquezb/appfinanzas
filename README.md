@@ -2,6 +2,10 @@
 
 Luis Eduardo Márquez Brazón: https://www.linkedin.com/in/luis-eduardo-m%C3%A1rquez-braz%C3%B3n-9a469b19/
 
+¿Cómo he ido desarrollando este sistema?:
+
+https://www.youtube.com/playlist?list=PLqKbnrdMO6PxDg4m_U_rFlcaDt7i3-hK8
+
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En_Desarrollo-green)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
 
