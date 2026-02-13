@@ -1,5 +1,7 @@
 # 💰 Gastoxpress - Control de Gastos Personales
 
+Luis Eduardo Márquez Brazón: https://www.linkedin.com/in/luis-eduardo-m%C3%A1rquez-braz%C3%B3n-9a469b19/
+
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En_Desarrollo-green)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
 
@@ -94,3 +96,5 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ---
 *Desarrollado con ❤️ para el control financiero.*
+
+Luis Eduardo Márquez Brazón: https://www.linkedin.com/in/luis-eduardo-m%C3%A1rquez-braz%C3%B3n-9a469b19/
