@@ -1,0 +1,7 @@
+{
+  "name": "Gastoxpress",
+  "description": "Una aplicación moderna para el control de ingresos y egresos con escaneo inteligente de recibos mediante IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
